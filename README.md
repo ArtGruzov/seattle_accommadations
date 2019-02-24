@@ -39,4 +39,5 @@ I decided to do exactly this project because I think that this type of investiga
 From this analysis, I found out that January and February are the most popular months, while March, October, November, and December are the most unpopular months. Also, from this analysis, I've got characteristics of typical popular/unpopular for rental accommodations. For example, I find out that people prefer to rent an entire apartment or condo with a flexible cancellation policy and with real bad or couch. Moreover, I've found out what areas are most popular and unpopular for rent in Seattle.
 
 You can read more about result of my investigation from this post:
+
 https://medium.com/@ArtGruzov/what-do-you-need-to-know-to-rent-out-accommodation-in-seattle-d84c209fc220
